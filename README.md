@@ -9,7 +9,8 @@
 - [x] Manual testing to see if pwnagotchi sends ping or not
 - [ ] Openhaystack integration
   - [x] Config file parsing
-  - [ ] Background thread for sending BT advertisement
+  - [x] Background thread for sending BT advertisement
+  - [ ] Code cleanup and improvement
 - [ ] Web ui
   - [ ] Initial configuration process
   - [ ] Display current config
@@ -17,3 +18,7 @@
 - [ ] Airtag emulation
 - [ ] Optional icon on screen to see if pwnagotchi is currently sending out adv
 - [ ] README.md instructions on how to install and configure the plugin
+
+## 🏅 Credits
+
+- openhaystack by seemoo-lab [[Github](https://github.com/seemoo-lab/openhaystack)]
