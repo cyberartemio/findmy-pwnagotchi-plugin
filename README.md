@@ -8,7 +8,7 @@
 
 - [x] Manual testing to see if pwnagotchi sends ping or not
 - [ ] Openhaystack integration
-  - [ ] Config file parsing
+  - [x] Config file parsing
   - [ ] Background thread for sending BT advertisement
 - [ ] Web ui
   - [ ] Initial configuration process
